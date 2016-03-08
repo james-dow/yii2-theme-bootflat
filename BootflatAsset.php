@@ -4,10 +4,10 @@
  * @author Squio <info@squio.nl>
  * https://bootflat.github.io/
  */
-namespace squio\theme\flat;
+namespace squio\theme\bootflat;
 
 use yii\web\AssetBundle;
-class FlatAsset extends AssetBundle
+class BootflatAsset extends AssetBundle
 {
     public $sourcePath='@vendor/squio/yii2-theme-bootflat/assets';
     public $baseUrl = '@web';

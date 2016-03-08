@@ -28,5 +28,5 @@ Usage
 ```
 use squio\theme\bootflat;
 
-flat\BootflatAsset::register($this);
+bootflat\BootflatAsset::register($this);
 ```
