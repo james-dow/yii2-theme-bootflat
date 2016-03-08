@@ -1,0 +1,26 @@
+{
+    "name": "squio/yii2-theme-bootflat",
+    "description": "Theme for Yii2 Web Application based on Bootflat",
+    "type": "yii2-extension",
+    "keywords": ["yii2", "extension", "theme", "flat", "bootstrap", "bootflat"],
+    "license": "MIT",
+    "minimum-stability": "stable",
+    "authors": [
+        {
+            "name": "squio",
+            "email": "info@squio.nl"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "support": {
+        "issues": "https://github.com/squio/yii2-theme-bootflat/issues?state=open",
+        "source": "https://github.com/squio/yii2-theme-bootflat"
+    },
+    "autoload": {
+        "psr-4": {
+            "squio\\theme\\bootflat\\": ""
+        }
+    }
+}
