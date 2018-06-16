@@ -5,7 +5,7 @@ namespace jamesdow\theme\bootflat;
 use yii\web\AssetBundle;
 class BootflatAsset extends AssetBundle
 {
-    // public $sourcePath='@vendor/james-dow/yii2-theme-bootflat/assets';
+    public $sourcePath = '@vendor/james-dow/yii2-theme-bootflat/assets';
     public $baseUrl = '@web';
     
     public $css = [
@@ -33,7 +33,6 @@ class BootflatAsset extends AssetBundle
      */
     public function init()
     {
-        $this->setSourcePath(__DIR__ . '/assets');
         parent::init();
     }
 }
