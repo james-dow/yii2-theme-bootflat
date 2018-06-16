@@ -11,13 +11,13 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```
-php composer.phar require --prefer-dist squio/yii2-theme-bootflat "*"
+php composer.phar require --prefer-dist james-dow/yii2-theme-bootflat "*"
 ```
 
 or add
 
 ```
-"squio/yii2-theme-bootflat": "*"
+"james-dow/yii2-theme-bootflat": "*"
 ```
 
 to the require section of your `composer.json` file.
@@ -26,7 +26,7 @@ to the require section of your `composer.json` file.
 Usage
 -----
 ```
-use squio\theme\bootflat;
+use jamesdow\theme\bootflat;
 
 bootflat\BootflatAsset::register($this);
 ```

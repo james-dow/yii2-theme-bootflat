@@ -1,15 +1,11 @@
 <?php
-/*
- * 2016-03-08
- * @author Squio <info@squio.nl>
- * https://bootflat.github.io/
- */
-namespace squio\theme\bootflat;
+
+namespace jamesdow\theme\bootflat;
 
 use yii\web\AssetBundle;
 class BootflatAsset extends AssetBundle
 {
-    public $sourcePath='@vendor/squio/yii2-theme-bootflat/assets';
+    public $sourcePath='@vendor/james-dow/yii2-theme-bootflat/assets';
     public $baseUrl = '@web';
     
     public $css=[
