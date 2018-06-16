@@ -18,15 +18,9 @@
         "issues": "https://github.com/james-dow/yii2-theme-bootflat/issues?state=open",
         "source": "https://github.com/james-dow/yii2-theme-bootflat"
     },
-    "repositories": [
-        {
-            "type": "composer",
-            "url": "https://asset-packagist.org"
-        }
-    ],
     "autoload": {
         "psr-4": {
-            "squio\\theme\\bootflat\\": ""
+            "jamesdow\\theme\\bootflat\\": ""
         }
     }
 }
