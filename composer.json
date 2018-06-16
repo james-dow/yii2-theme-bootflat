@@ -1,5 +1,5 @@
 {
-    "name": "squio/yii2-theme-bootflat",
+    "name": "james-dow/yii2-theme-bootflat",
     "description": "Theme for Yii2 Web Application based on Bootflat",
     "type": "yii2-extension",
     "keywords": ["yii2", "extension", "theme", "flat", "bootstrap", "bootflat"],
@@ -15,8 +15,8 @@
         "yiisoft/yii2": "*"
     },
     "support": {
-        "issues": "https://github.com/squio/yii2-theme-bootflat/issues?state=open",
-        "source": "https://github.com/squio/yii2-theme-bootflat"
+        "issues": "https://github.com/james-dow/yii2-theme-bootflat/issues?state=open",
+        "source": "https://github.com/james-dow/yii2-theme-bootflat"
     },
     "autoload": {
         "psr-4": {
